@@ -1,13 +1,6 @@
 # LFTools
 
-LFTools e um add-in para Autodesk Revit criado para acelerar tarefas de modelagem, documentacao, eletrica, automacao e limpeza de projetos BIM.
-
-Este repositorio publico concentra apenas os arquivos de distribuicao do plugin:
-
-- Instaladores MSI publicados em Releases.
-- Arquivo `config.json` usado pelo LFTools para avisos, atualizacoes e controle remoto de ferramentas.
-
-O codigo-fonte do plugin e mantido em repositorio privado.
+LFTools e um add-in para Autodesk Revit criado para acelerar tarefas de modelagem, documentacao, eletrica e limpeza de projetos BIM.
 
 ## Download
 

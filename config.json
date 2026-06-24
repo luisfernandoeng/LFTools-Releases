@@ -1,0 +1,187 @@
+{
+  "latestVersion": "0.0.0",
+  "downloadUrl": "https://github.com/luisfernandoeng/LFTools-Releases/releases/latest",
+  "globalMessage": "",
+  "tools": {
+    "Acoplar": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "Dados": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "ConectarEletrocalha": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "Desviar": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "AnotarFiacao": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "Desacoplar": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "ConectarEletroduto": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "InverterAnotacao": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "AutoCotas": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "GerenciarFolhas": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "Memorial": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "GerenciarCircuito": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "MergeText": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "TransferSettings": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "GerarFolhas": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "SmartCrop": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "NomeAmb": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "TransferParametros": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "SmartAutoSave": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "Renomear": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "FiltrarEletrica": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "SomaDist": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "SmartSelectSimilar": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "FiltroAvancado": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "Overkill": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "TransferirCircuitos": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "PontosVinculo": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "SincronizarCircuitos": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "ToExcel": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "FamilyParameterManager": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "SubstituirElementos": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "InspecionarTipo": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "AnalisarGeometria": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "Numerar": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "OcultarAbas": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "Energia": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    }
+  }
+}

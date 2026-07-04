@@ -18,7 +18,8 @@
 
 Todo projetista de elétrica conhece a rotina: dimensionar circuito por circuito na calculadora, renumerar quadro inteiro porque o cliente mudou uma coisa, exportar 40 folhas uma a uma, caçar elemento sobreposto que está dobrando o quantitativo...
 
-O LFTools nasceu dentro de um escritório de projetos, resolvendo esses problemas um por um — no projeto real, com prazo real. Cada botão existe porque alguém perdeu uma tarde fazendo aquilo na mão e decidiu que seria a última vez.
+O LFTools nasceu das necessidades de um projetista, resolvendo esses problemas um por um — no projeto, no dia a dia, com prazo apertado especialmente. 
+Cada botão existe porque alguém perdeu uma tarde fazendo aquilo na mão e decidi que seria a última vez.
 
 Hoje são **mais de 30 ferramentas** organizadas em uma aba só: **LF Tools**.
 
@@ -142,7 +143,7 @@ Encontrou um bug? [Abra uma issue](https://github.com/luisfernandoeng/LFTools-Re
 
 <div align="center">
 
-*Cada botão do LFTools é uma tarde de trabalho manual que você não vai perder mais.*
+*Cada botão do LFTools é um dia de trabalho manual que você não vai perder mais.*
 
 **[⬇ Baixar agora](https://github.com/luisfernandoeng/LFTools-Releases/releases/latest)**
 

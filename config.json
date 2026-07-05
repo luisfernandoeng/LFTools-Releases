@@ -1,7 +1,5 @@
 {
-  "latestVersion": "0.0.2",
-  "downloadUrl": "https://github.com/luisfernandoeng/LFTools-Releases/releases/latest",
-  "updateMessage": "Existe uma nova versao do LFTools disponivel.",
+  "schemaVersion": 1,
   "globalMessage": "",
   "tools": {
     "Acoplar": {
@@ -49,7 +47,7 @@
       "isPremium": false,
       "blockMessage": ""
     },
-    "GerenciarFolhas": {
+    "AlterarNivel": {
       "enabled": true,
       "isPremium": false,
       "blockMessage": ""
@@ -94,6 +92,11 @@
       "isPremium": false,
       "blockMessage": ""
     },
+    "CopiarParametro": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
     "SmartAutoSave": {
       "enabled": true,
       "isPremium": false,
@@ -130,6 +133,11 @@
       "blockMessage": ""
     },
     "TransferirCircuitos": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "TransferirVistas": {
       "enabled": true,
       "isPremium": false,
       "blockMessage": ""
@@ -180,6 +188,16 @@
       "blockMessage": ""
     },
     "Energia": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "RenomearCircuitos": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
+    "LFClash": {
       "enabled": true,
       "isPremium": false,
       "blockMessage": ""

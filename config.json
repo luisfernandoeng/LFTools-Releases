@@ -3,205 +3,207 @@
   "globalMessage": "",
   "tools": {
     "Acoplar": {
-      "enabled": true,
+      "enabled": false,
       "isPremium": false,
-      "blockMessage": ""
-    },
-    "Dados": {
-      "enabled": true,
-      "isPremium": false,
-      "blockMessage": ""
-    },
-    "ConectarEletrocalha": {
-      "enabled": true,
-      "isPremium": false,
-      "blockMessage": ""
-    },
-    "Desviar": {
-      "enabled": true,
-      "isPremium": false,
-      "blockMessage": ""
-    },
-    "AnotarFiacao": {
-      "enabled": true,
-      "isPremium": false,
-      "blockMessage": ""
-    },
-    "Desacoplar": {
-      "enabled": true,
-      "isPremium": false,
-      "blockMessage": ""
-    },
-    "ConectarEletroduto": {
-      "enabled": true,
-      "isPremium": false,
-      "blockMessage": ""
-    },
-    "InverterAnotacao": {
-      "enabled": true,
-      "isPremium": false,
-      "blockMessage": ""
-    },
-    "AutoCotas": {
-      "enabled": true,
-      "isPremium": false,
-      "blockMessage": ""
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
     },
     "AlterarNivel": {
-      "enabled": true,
+      "enabled": false,
       "isPremium": false,
-      "blockMessage": ""
-    },
-    "Memorial": {
-      "enabled": true,
-      "isPremium": false,
-      "blockMessage": ""
-    },
-    "GerenciarCircuito": {
-      "enabled": true,
-      "isPremium": false,
-      "blockMessage": ""
-    },
-    "MergeText": {
-      "enabled": true,
-      "isPremium": false,
-      "blockMessage": ""
-    },
-    "TransferSettings": {
-      "enabled": true,
-      "isPremium": false,
-      "blockMessage": ""
-    },
-    "GerarFolhas": {
-      "enabled": true,
-      "isPremium": false,
-      "blockMessage": ""
-    },
-    "SmartCrop": {
-      "enabled": true,
-      "isPremium": false,
-      "blockMessage": ""
-    },
-    "NomeAmb": {
-      "enabled": true,
-      "isPremium": false,
-      "blockMessage": ""
-    },
-    "TransferParametros": {
-      "enabled": true,
-      "isPremium": false,
-      "blockMessage": ""
-    },
-    "CopiarParametro": {
-      "enabled": true,
-      "isPremium": false,
-      "blockMessage": ""
-    },
-    "SmartAutoSave": {
-      "enabled": true,
-      "isPremium": false,
-      "blockMessage": ""
-    },
-    "Renomear": {
-      "enabled": true,
-      "isPremium": false,
-      "blockMessage": ""
-    },
-    "FiltrarEletrica": {
-      "enabled": true,
-      "isPremium": false,
-      "blockMessage": ""
-    },
-    "SomaDist": {
-      "enabled": true,
-      "isPremium": false,
-      "blockMessage": ""
-    },
-    "SmartSelectSimilar": {
-      "enabled": true,
-      "isPremium": false,
-      "blockMessage": ""
-    },
-    "FiltroAvancado": {
-      "enabled": true,
-      "isPremium": false,
-      "blockMessage": ""
-    },
-    "Overkill": {
-      "enabled": true,
-      "isPremium": false,
-      "blockMessage": ""
-    },
-    "TransferirCircuitos": {
-      "enabled": true,
-      "isPremium": false,
-      "blockMessage": ""
-    },
-    "TransferirVistas": {
-      "enabled": true,
-      "isPremium": false,
-      "blockMessage": ""
-    },
-    "PontosVinculo": {
-      "enabled": true,
-      "isPremium": false,
-      "blockMessage": ""
-    },
-    "SincronizarCircuitos": {
-      "enabled": true,
-      "isPremium": false,
-      "blockMessage": ""
-    },
-    "ToExcel": {
-      "enabled": true,
-      "isPremium": false,
-      "blockMessage": ""
-    },
-    "FamilyParameterManager": {
-      "enabled": true,
-      "isPremium": false,
-      "blockMessage": ""
-    },
-    "SubstituirElementos": {
-      "enabled": true,
-      "isPremium": false,
-      "blockMessage": ""
-    },
-    "InspecionarTipo": {
-      "enabled": true,
-      "isPremium": false,
-      "blockMessage": ""
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
     },
     "AnalisarGeometria": {
-      "enabled": true,
+      "enabled": false,
       "isPremium": false,
-      "blockMessage": ""
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
     },
-    "Numerar": {
-      "enabled": true,
+    "AnotarFiacao": {
+      "enabled": false,
       "isPremium": false,
-      "blockMessage": ""
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
     },
-    "OcultarAbas": {
-      "enabled": true,
+    "AutoCotas": {
+      "enabled": false,
       "isPremium": false,
-      "blockMessage": ""
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
+    },
+    "ConectarEletrocalha": {
+      "enabled": false,
+      "isPremium": false,
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
+    },
+    "ConectarEletroduto": {
+      "enabled": false,
+      "isPremium": false,
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
+    },
+    "CopiarParametro": {
+      "enabled": false,
+      "isPremium": false,
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
+    },
+    "Dados": {
+      "enabled": false,
+      "isPremium": false,
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
+    },
+    "Desacoplar": {
+      "enabled": false,
+      "isPremium": false,
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
+    },
+    "Desviar": {
+      "enabled": false,
+      "isPremium": false,
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
     },
     "Energia": {
-      "enabled": true,
+      "enabled": false,
       "isPremium": false,
-      "blockMessage": ""
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
     },
-    "RenomearCircuitos": {
-      "enabled": true,
+    "FamilyParameterManager": {
+      "enabled": false,
       "isPremium": false,
-      "blockMessage": ""
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
+    },
+    "FiltrarEletrica": {
+      "enabled": false,
+      "isPremium": false,
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
+    },
+    "FiltroAvancado": {
+      "enabled": false,
+      "isPremium": false,
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
+    },
+    "GerarFolhas": {
+      "enabled": false,
+      "isPremium": false,
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
+    },
+    "GerenciarCircuito": {
+      "enabled": false,
+      "isPremium": false,
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
+    },
+    "InspecionarTipo": {
+      "enabled": false,
+      "isPremium": false,
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
+    },
+    "InverterAnotacao": {
+      "enabled": false,
+      "isPremium": false,
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
     },
     "LFClash": {
-      "enabled": true,
+      "enabled": false,
       "isPremium": false,
-      "blockMessage": ""
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
+    },
+    "Memorial": {
+      "enabled": false,
+      "isPremium": false,
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
+    },
+    "MergeText": {
+      "enabled": false,
+      "isPremium": false,
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
+    },
+    "NomeAmb": {
+      "enabled": false,
+      "isPremium": false,
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
+    },
+    "Numerar": {
+      "enabled": false,
+      "isPremium": false,
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
+    },
+    "OcultarAbas": {
+      "enabled": false,
+      "isPremium": false,
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
+    },
+    "Overkill": {
+      "enabled": false,
+      "isPremium": false,
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
+    },
+    "PontosVinculo": {
+      "enabled": false,
+      "isPremium": false,
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
+    },
+    "Renomear": {
+      "enabled": false,
+      "isPremium": false,
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
+    },
+    "RenomearCircuitos": {
+      "enabled": false,
+      "isPremium": false,
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
+    },
+    "SincronizarCircuitos": {
+      "enabled": false,
+      "isPremium": false,
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
+    },
+    "SmartAutoSave": {
+      "enabled": false,
+      "isPremium": false,
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
+    },
+    "SmartCrop": {
+      "enabled": false,
+      "isPremium": false,
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
+    },
+    "SmartSelectSimilar": {
+      "enabled": false,
+      "isPremium": false,
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
+    },
+    "SomaDist": {
+      "enabled": false,
+      "isPremium": false,
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
+    },
+    "SubstituirElementos": {
+      "enabled": false,
+      "isPremium": false,
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
+    },
+    "ToExcel": {
+      "enabled": false,
+      "isPremium": false,
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
+    },
+    "TransferParametros": {
+      "enabled": false,
+      "isPremium": false,
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
+    },
+    "TransferSettings": {
+      "enabled": false,
+      "isPremium": false,
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
+    },
+    "TransferirCircuitos": {
+      "enabled": false,
+      "isPremium": false,
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
+    },
+    "TransferirVistas": {
+      "enabled": false,
+      "isPremium": false,
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
     }
   },
-  "signature": "BtIGC9fx/H\u002BvGayHlEuhRts0WHcfKr2man6stv/iLOr\u002BN9a4ZLrWIHa3hLB4R9phnBBP3qRW4GTsFyI1xmALytcixYJSHio5uJ0LCranlAg0sxsdJ7DCh6NzWUxpT9FKN6Bo61aHmiJepjHmbjb1ks074kl3QVC5FwNjs0MtIUjNWug/25OabzlUTcfsYO9tRu9mnBsu\u002BHA/fRHwrNeQZqwJeI5ke6C84F8jN\u002BHgQR/xtyYp\u002BwWZOdh46uL108OCnoNYOyQUlV2lVF8LFLBoM27s8RnyiKjh2G2VK20fw8WTe4F8wDJnE3O4gvTjSlfOXO1Nx2u/1Ke0Ta/Jp\u002BVjc3ReFC/aI7tti0MDV2meZDJf9VqNhzSe40y4zPya\u002BZCsDNpuGX9YVB2mQWWWuhHsu/EAJpcvwBQtaxtdDMXkHpsv\u002BPaTW7Om86T9aDsDdK3FNTYlAwDA6d91rafY7qxUEqdhnTe25W0LlFwdVWJ8vQoI5kBtkRNv1MaoF54nwXOw"
+  "validUntil": "2036-07-31T00:00:00Z",
+  "signature": "ss/S6Mbs4EJqc62ZGAjuGXwiPFf45dS3AwwIx0RD4zXfoiIvwPZ6eP7v3UluIp1LWvnbkog\u002BF1DXFVgTO7yBV257Rhs7YbYQfANQ5q5cAxQr32IzF9IUMs2MXQBIk4/KIeIKg/dkoxmB5pNN4ZcAHNsUXeil5OQ9qrx5/o7KfR7/Rndw81IvPNYJuL4jwbni5ek5689VZO\u002BR4kT6NqDOwd\u002Bil360Zi7j8QAXcdmJvjQeOtxHLraPmwo0abJxpkNQOrGMm18BxfF4TMJk5YKhHY/rVE\u002B3Z8WpJQV\u002Bl4VH0M622mm65VrmTS\u002BzNR6ju20yawXj4\u002BzOf\u002BFDdEPUlukRLu24dyrxyv9RPdupjpVPO2Gt\u002BJooO7YK1xYIGz8uutXQWEWDoB7pRsUObcMDYY5/AEsa517K9OqrOWg7Zmcle5h8hxRyD\u002Bg1vUtslFILPmLo/EL8Z0vNftuWlPRDCa0UDpel15qwTSZuk4khD/UxtDLDZQDe6PuCueASz7H75gFz",
+  "signatureV2": "TFi0meGagUhBO53ltPm\u002BDoVvk5IlmwZfLdWBwA2NEEYMEHsvoIzIZAPo4ZJO6VutkevnU/1MVxe5eTVUxn3Mb7dTAKaiEWLKVnx/RwN\u002BvpFbXiDCu2mzzgwY8uFj9maP6/LCyO\u002BTz/gx95FBTiNtluz3z0dpdt\u002BfYQLwKfmrr6\u002BZUWRooelIWsp/pjPoREppoeJNjnyFS1UBco9MWwbhSX/233l20PKTpbfZ43hxikJi/aJkK9Y7/z013sA4FdTgIRP4pr7HWTCEfnD7X90lj\u002BVkha9L7LBv1NuAG6bxRp3yW5IMyeeoHJqpP/MT3EOjdnWJyrkdiVe2Eqb\u002BKhyN5\u002BJkQD2cuUjDue3RgxPHLVpTt6MlVs9v7AW97KvKzqvtloFHSXdIHELEXXexpd3uuf0Zgkq4ZBUEOEJLLXG6HtUGerzqoBr33j9jZ3BsTjmsUhNFkqVLcoNHy07X9uaLwOGujEPoWGZepmkoNGc0e9jPPLmUU6\u002Bo\u002Bdk0oGaZV5aZ"
 }

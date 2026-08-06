@@ -1,6 +1,9 @@
 {
   "schemaVersion": 1,
-  "globalMessage": "",
+  "latestVersion": "0.0.7",
+  "downloadUrl": "https://github.com/luisfernandoeng/LFTools-Releases/releases/latest",
+  "updateMessage": "Esta versão do LFTools foi descontinuada e não recebe mais atualizações.\n\nBaixe a versão nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest",
+  "globalMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest",
   "tools": {
     "Acoplar": {
       "enabled": false,
@@ -83,6 +86,11 @@
       "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
     },
     "GerenciarCircuito": {
+      "enabled": false,
+      "isPremium": false,
+      "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
+    },
+    "GerenciarFolhas": {
       "enabled": false,
       "isPremium": false,
       "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
@@ -203,7 +211,7 @@
       "blockMessage": "Esta vers\u00E3o do LFTools foi descontinuada e n\u00E3o recebe mais atualiza\u00E7\u00F5es.\n\nBaixe a vers\u00E3o nova em:\nhttps://github.com/luisfernandoeng/LFTools-Releases/releases/latest"
     }
   },
-  "validUntil": "2036-07-31T00:00:00Z",
-  "signature": "ss/S6Mbs4EJqc62ZGAjuGXwiPFf45dS3AwwIx0RD4zXfoiIvwPZ6eP7v3UluIp1LWvnbkog\u002BF1DXFVgTO7yBV257Rhs7YbYQfANQ5q5cAxQr32IzF9IUMs2MXQBIk4/KIeIKg/dkoxmB5pNN4ZcAHNsUXeil5OQ9qrx5/o7KfR7/Rndw81IvPNYJuL4jwbni5ek5689VZO\u002BR4kT6NqDOwd\u002Bil360Zi7j8QAXcdmJvjQeOtxHLraPmwo0abJxpkNQOrGMm18BxfF4TMJk5YKhHY/rVE\u002B3Z8WpJQV\u002Bl4VH0M622mm65VrmTS\u002BzNR6ju20yawXj4\u002BzOf\u002BFDdEPUlukRLu24dyrxyv9RPdupjpVPO2Gt\u002BJooO7YK1xYIGz8uutXQWEWDoB7pRsUObcMDYY5/AEsa517K9OqrOWg7Zmcle5h8hxRyD\u002Bg1vUtslFILPmLo/EL8Z0vNftuWlPRDCa0UDpel15qwTSZuk4khD/UxtDLDZQDe6PuCueASz7H75gFz",
-  "signatureV2": "TFi0meGagUhBO53ltPm\u002BDoVvk5IlmwZfLdWBwA2NEEYMEHsvoIzIZAPo4ZJO6VutkevnU/1MVxe5eTVUxn3Mb7dTAKaiEWLKVnx/RwN\u002BvpFbXiDCu2mzzgwY8uFj9maP6/LCyO\u002BTz/gx95FBTiNtluz3z0dpdt\u002BfYQLwKfmrr6\u002BZUWRooelIWsp/pjPoREppoeJNjnyFS1UBco9MWwbhSX/233l20PKTpbfZ43hxikJi/aJkK9Y7/z013sA4FdTgIRP4pr7HWTCEfnD7X90lj\u002BVkha9L7LBv1NuAG6bxRp3yW5IMyeeoHJqpP/MT3EOjdnWJyrkdiVe2Eqb\u002BKhyN5\u002BJkQD2cuUjDue3RgxPHLVpTt6MlVs9v7AW97KvKzqvtloFHSXdIHELEXXexpd3uuf0Zgkq4ZBUEOEJLLXG6HtUGerzqoBr33j9jZ3BsTjmsUhNFkqVLcoNHy07X9uaLwOGujEPoWGZepmkoNGc0e9jPPLmUU6\u002Bo\u002Bdk0oGaZV5aZ"
+  "validUntil": "2036-08-03T00:00:00Z",
+  "signature": "e8CALZS1Gm4yypRpMCN50Utvk8Qq9lo\u002BYQ4KZNl8JV00FRCYC\u002BbRJZFCCHOsiU6UfGS5D3aRzNZkcjjfYVbPqQ3bmlkcAK1oZfwWC0cwGAsBtlhk6Sm6ntMLyfbTcxs3LLsTcx8jdFCL8lzHg1/h3\u002Bf9Re8yLdDMPdyXNtwiWsbTHnRwm1lCm4bm16t/vPg25LQcPIFdO/BdHEcXLv7fu2f4WVuc6kEBGiJchIyCKU67uOm2KxBaGW05aKdpFhyhJUxF1SMVMEbwl6zHxQlPh0eOVQ3aqkkbsh3R8BlzWYI127qU3KyidrUGAR6EwnCvXwnOSKZIuxFRMNiDvDXdPWn3fkucUL\u002BoN\u002BiDOLRDEWH7EoDATAXGwvLcC52oyXTswBuWezg2wiCQ/6RcZWGb8pHE4\u002BnpVbAyRQ3abdRIWdrMRqrf3qTL4259fD\u002B6FuQf0psCcfLzA8wrm1oikqHL3b9mj33HYudOY06xBkmSQOVrJKdzK6xO2wMKM0T8KwzU",
+  "signatureV2": "x2Ps7hpyptcMNlokSmOFCeuADReWH3MUFxwuq4\u002Bm6kmfw8vM5xCDoHg8H8lN2h8vQI/LzPQVBxuSpCUgJlt5xyjZHxgReuQLDbu5MPtucQsH1hG/HLG4Bb\u002BFxCE\u002BSjzv4Z0HQgxsu64iUUNWuRCNIEgp5ru1WHsrsGRZXebyq31xZnOKk5aHOoYFYYzJyzlz1Ztj3yxcSkSqk9ZLRHPbQAh4PID0PG8N6GY//hVRllQkn/Wax9Ov6FdfEy4ehPXLWgOQA6AzsSsMx54QfiTDH6HBso48GWssch/g2GA5PPohmXfZimkHqcTEG\u002BWMIfTMz8kczClReo\u002BOk4\u002BjSPIewKRtl3ha90H8bCd0RQNbT/ekm4LEnzD9RDmsV7b4OLTfUWvaLmVhsu3a1oj6PYTlRjoBkRMgFtW9gtv5w7R\u002BO6U9zDAup29pgN0Fn1HpyiG5yay/ubpvDOSASAVICDybE5aUjMDifjspUFY2J1RM0FgRyjn3L8LqNHfYpVLvHlem"
 }

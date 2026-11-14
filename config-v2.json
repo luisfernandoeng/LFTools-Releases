@@ -42,6 +42,11 @@
       "isPremium": false,
       "blockMessage": ""
     },
+    "CriarDiagramas": {
+      "enabled": true,
+      "isPremium": false,
+      "blockMessage": ""
+    },
     "Dados": {
       "enabled": true,
       "isPremium": false,
@@ -223,7 +228,7 @@
       "blockMessage": ""
     }
   },
-  "validUntil": "2026-12-09T00:00:00Z",
-  "signature": "sqAEzjIUc\u002BZCsscPPTmiP80kLhSnMywo6sw7ndNxQG/to5ySLa3P7EQt20wYLTVs3qfHZLn/5xiI53rGq72LhvX/CtEGGmiAeYK61qsJY2BahWseRkUUfa3K9HgB2jycIPVgfNWMJRLTe8uF1CGuM3LuOXBPlVkzkyXg/uy5RhFjONeU/AdDEQul\u002B9LsrWYOIWLEFjbamG9r8CA7W3z2XqKovNV9yTpTotcMPjfpTteHe20Tx6\u002BHK\u002B0XJY2ihdTurW9qJ5HSYrBJeea3ayScGXIUVar44h7zUA\u002B\u002Btd0175YhrlOiLcNJ\u002BjRYgPFtWssmw6jgZS\u002BJh3ZRzLPrOY6c/dizxAl2AiEMP5azmHEq\u002BKxrksw4nfMMuspHFVPirWsqBgXV5E1FJtwUXOmG\u002BZhyc\u002B84qmXHkx1\u002BbXisE4BzaxD5u5uZsVhjLl0vnbbY\u002Bsrd6uFbE2W0eOqDsfs5na0/TC\u002BGbMw0HzrMy\u002BChBKwf6bqiwCe1qO7zYZPU51UxJyaj",
-  "signatureV2": "EVEHnwyOquCXhn/Ww2iNWHIW4po55EcapDx8QVYBP7wD9G/V6gIFjqbUymA\u002Bcx7/u5Dp4rEvQ/0hXZmb38lNIIVTj1F9ltbyscscQ7vaHl431rHW7o2\u002BOaJtBgInzlaAEmAwHwpcgon/ZinIyMuKNE8ojF4mE/TlEcneXYhiUo9p\u002Blm1mG81u9Igje4WT0VxxpPZ/x\u002BUVkQy0zoNZ8Ka18J9nwvhQe6O4GhjPx7Bux5AxlOcNq1tujuJBP14S4RFrQvq69PiPm5LLXC/ZtvbJQP3KGULG93a4gJUv2lK2aVH8mQwzkZMtiebZ0zNpTM\u002BO6VGI8n6DCuq72PlOtBhudBomG5AioBYc3WEe5omAslAa0WpPTRdDzLzRJsky\u002B2Ywg6MT7p/Pz4bk\u002B0k0ozSpiof89uJC2ArzkbpZ7CE8poAWg9Xy/HMMbDV79DoAyIipEkJU\u002BhOuC4ITxDyElhaejI07g4LkcfNnVY0bOkIxkF\u002BUwnPB1QJ7h8hRhMRT1Jb"
+  "validUntil": "2026-12-14T00:00:00Z",
+  "signature": "c1TkPr4MH02aoeqm4xSNVqYcnRlWstL5XgTQy8S4AztZx4iU3C6KBXH654abO7qy5MT9ELrCGuolyeWbBRMwLtQiFqq7BATXlBPXII00qajFSNbSpP/vUQ0Op61MEYFYH112w4T\u002Boc2oSDI3hrAr59v9ZTHdB9W1bK2YlOMNWXj67w/3yuqRp6VC4\u002BhVZqxEFmIJOy74ImV8fE5xF4VTiSomX3YXVhMmsO3kUea27rdV8smpgSFqS52rDiIJGqstsDPxFrapaguqUmuHKzwwSKbHJ7YUAGRHLHqEWEdtHunEzJN4qCR3grMsSJpowyon/fC3N2jhCXZ3tMfgjYe/aIogcdQ1dZVslJkhbIOdcfd3NqOt1rupHLkXw9k8CuYLSCBcITkaT7N7OpCdSdm1dqjXqUNhCsTdw3d9/gJUX3MWmghjw\u002BmV16cMlfr1L3xropHzPZHTRJveNJoOhhe5w25IsOoWm6AfViBQG4vnKjQiTy4\u002BArXLYRes8/uCditb",
+  "signatureV2": "AVbW\u002BtpdW5AUQNDUR4j9Hem/iY3918x9kGZyzQFGXuiOmIeqUA\u002Bwzr2RaQfWIMn/wBdNMWunPQ41pjL1vzNfZbdjJB56QY8MSU8\u002BYRIeAzFDOVXsOq0Avju/iU6XohyYnc3n7bNy1xq5EJkHXMzg\u002BwfLN0Is30Qf/y3m3104rK7oUmxDzBXuzITJsBEggnZzQOcdKdwARGd78Zbm6GThH9JwHHfravWq0RowZSFPt6\u002BKOCbyShzDxU4I8/fFTuvrZqiML8TGPIfjZUaxNU\u002B2E4qT0pL8lAwFVHrmXQlygtXUusZDDX\u002Bh5PKOsKRsZ7OjhTfpmn2Rph\u002Bw9NMgd5sOzBoIlhCZqb\u002BwpQixd/8UrjCsvzm5zIicCc8xkhUEtHfmJ8cUCTCWDuPA42Xa4hmD0OKyMNAqodkciZ9BNbFpMhm279r5bXCe7SJRsZC2Abk779tRx16Le2RIeqg0Q4FyovPhX9h7TQ74OGJ\u002Bs4RT4pdEez63g4X18o9ZjQSGYVab"
 }
